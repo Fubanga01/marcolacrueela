@@ -1,6 +1,0 @@
-python-telegram-bot
-pillow
-requests
-ollama
-fake-useragent
-github
