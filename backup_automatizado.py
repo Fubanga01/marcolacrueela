@@ -1,3 +1,0 @@
-TELEGRAM_TOKEN=7936846172:AAGkiPzf8XG5_TvRwZQJC3cVMudRd6UNMz0
-GITHUB_TOKEN=seu_github_token_aqui
-RAILWAY_API_KEY=sua_chave_de_api_do_railway_aqui
